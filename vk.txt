@@ -1,7 +1,24 @@
+<<<<<<< HEAD
 id = '51483725'
+=======
+﻿id = '51483725'
+>>>>>>> refs/remotes/origin/main
 https://oauth.vk.com/authorize?client_id=51483725&display=page&redirect_uri=https://oauth.vk.com/callback&scope=friends&response_type=token&v=5.131&state=123456
+
+vk1.a.Chdbo7t-9e9HcXVzvG2V3esIded8PjAEwnOJT38Z7trxtO5Td-GrSplLWH65_yGhBrWmcdo_X62vKiu7GWmkx_geJU03zl6OfiMFjsI8l0TVrVaxma3EY0Ed1GoValD-GtiH0PMYP287ObcsypPpmeHavK8MNtF5q0brIgOsy8NBCs0EoTJkiVPON8dJG811
 
 меняем scope у ссылки выше, добавляем права
 ссылка на права: 'https://dev.vk.com/reference/access-rights'
 
+<<<<<<< HEAD
 ссылка API: 'https://dev.vk.com/api/access-token/implicit-flow-user'
+=======
+ссылка: 'https://dev.vk.com/api/access-token/implicit-flow-user'
+
+https://oauth.vk.com/authorize?client_id=51484145&display=page&redirect_uri=https://oauth.vk.com/callback&scope=friends&response_type=token&v=5.131&state=123456
+
+
+Мой токен
+
+vk1.a.XnrnxZxewI-V_dJc87OCNGT78huF99WODFSmO9giW7nLzHeCUquZwPsyswr_gTFym4Hvxf87-Ptj3o_nL19rPbwhCsGMTQNSX25UJ5PNyCuMiGPFF2kj0Jd2n975Jis3eZsYfHQIwY5k_ds73gm23v__cPX5TNxBsmrDBrdJmPk4AryBBTQy3lD8ix50ajVE
+>>>>>>> refs/remotes/origin/main
