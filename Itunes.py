@@ -38,4 +38,4 @@ for i in news:
     print(category)
 # print(soup)
 # print(res.text)
-#https://colab.research.google.com/drive/1iduDcq6CMWn8UkPLvVSJoAxEZ7X28QBo#scrollTo=O1HP4mc1P-JR&uniqifier=1
+# https://colab.research.google.com/drive/1iduDcq6CMWn8UkPLvVSJoAxEZ7X28QBo#scrollTo=O1HP4mc1P-JR&uniqifier=1
